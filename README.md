@@ -1,5 +1,7 @@
 # 🥗 Chatbot de Nutrição com RAG & LLM (Portfólio / TCC)
 
+> 📌 **Repositório de portfólio.** Mostra o que o projeto faz. O código completo fica em repositório privado. Mais projetos no [meu perfil](https://github.com/julliamelo).
+
 > 🔒 **Aviso de Acesso:** Este repositório serve apenas como **vitrine e documentação conceitual** do meu Trabalho de Conclusão de Curso (Pós-graduação em PLN). O código-fonte completo e a
 > arquitetura do agente estão protegidos em um **repositório privado**.
 
